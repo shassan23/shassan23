@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shassan23
-- 👀 I’m interested in automation / UI design / research 
+- 👀 I’m interested in UI path automation / UI design / UX research 
 - 🌱 I’m currently learning python and Ui Automation
 - 💞️ I’m looking to any virtual bootcamps in the UK that invlove  UI/UX - hopefully free! 
 - ⚡ Fun fact: I am new to the tech world, but willing to learn and grow :)
